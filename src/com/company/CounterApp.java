@@ -74,3 +74,4 @@ public class CounterApp extends JFrame {
     private void setBounds(int i, int i1) {
         }
 }
+//конец
